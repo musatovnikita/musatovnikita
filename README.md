@@ -28,6 +28,8 @@ I’m currently learning Java. I get knowledge in backend development on Java.
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Write posts about software development.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+   
+   <summary><g-emoji class="g-emoji" alias="page_with_curl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png">📃</g-emoji> Resume</summary>
 
 
 <div align="center" style="margin: 40px 0">
