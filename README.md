@@ -24,6 +24,7 @@ I’m currently learning Java. I get knowledge in backend development on Java.
 *   Java language
    
 ## 🛠 My WorkSpace
+   <p align='center'>
    <a href=''>
        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
    </a>
@@ -33,6 +34,7 @@ I’m currently learning Java. I get knowledge in backend development on Java.
    <a href="https://t.me/nikitamusatov">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+      </p>
    
 ## Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
