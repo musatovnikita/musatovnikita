@@ -22,7 +22,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    </a>
 
 
-### Key points
+## Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Write posts about software development.
