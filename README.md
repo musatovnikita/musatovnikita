@@ -26,11 +26,7 @@ I’m currently learning Java. I get knowledge in backend development on Java.
 ## 🛠 Technical Stack
 *   Java language
    
-## Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+
  
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/musatovnikita/github-profile-views-counter">
