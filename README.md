@@ -2,9 +2,9 @@
 I’m currently learning Java.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=musatovnikita&show_icons=true&count_private=true&theme=dracula"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=musatovnikita&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=musatovnikita&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=musatovnikita&show_icons=true&count_private=true&theme=dracula"/></a>
    <a href="https://github.com/musatovnikita/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=musatovnikita&layout=compact"/></a>
    
