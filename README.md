@@ -6,9 +6,7 @@ I’m currently learning Java.
            height=150
            src="https://github-readme-stats.vercel.app/api?username=musatovnikita&show_icons=true&count_private=true&theme=dracula"/></a>
    <a href="https://github.com/musatovnikita/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=musatovnikita&layout=compact"/></a>
-   
-   ![Nikita Musatov's GitHub stats](https://github-readme-stats.vercel.app/api?username=musatovnikita&show_icons=true&theme=dracula)
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=musatovnikita&layout=compact&theme=dracula"/></a>
    
 </p>
 
