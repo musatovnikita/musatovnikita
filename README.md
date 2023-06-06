@@ -1,5 +1,5 @@
 # Hi there, I'm Nikita 👋
-I’m currently learning Python and Java.
+I’m currently learning Python and Java./
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=musatovnikita&show_icons=true&count_private=true">
