@@ -26,8 +26,8 @@ I’m currently learning Python and Java.
    </a>
 
 ## 🛠 Technical Stack
-*   Python, Java
-*   PostgreSQL
+*   Python, Java, Oracle PL/SQL
+*   Oracle, PostgreSQL
    
 
  
