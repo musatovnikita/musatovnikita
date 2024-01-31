@@ -30,7 +30,7 @@ I’m currently learning Python and Java.
 *   Oracle, PostgreSQL
 
 <details>
-  ## <summary>📃 Resume</summary>
+  <summary>## 📃 Resume</summary>
 
 
 ## Education
