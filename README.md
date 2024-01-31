@@ -29,7 +29,7 @@ I’m currently learning Python and Java.
 *   Python, Java, Oracle PL/SQL
 *   Oracle, PostgreSQL
 
-## <details>
+<details>
   <summary>📃 Resume</summary>
 
 
