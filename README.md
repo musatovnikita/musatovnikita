@@ -29,8 +29,8 @@ I’m currently learning Python and Java.
 *   Python, Java, Oracle PL/SQL
 *   Oracle, PostgreSQL
 
-<details>
-  <summary>## 📃 Resume</summary>
+## <details>
+  <summary>📃 Resume</summary>
 
 
 ## Education
