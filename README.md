@@ -32,10 +32,10 @@ Databases: <code>Oracle</code>
 
 <details>
   <summary>📃 Сertificates</summary>
-<br></br>
+</details>
 [Codeby Academy](https://python-basics.codeby.school/) - [Python programming basics](certificates/codeby_python.pdf)
 
-</details>
+
 
 <!---
 
