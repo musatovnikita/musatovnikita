@@ -1,5 +1,5 @@
 # Hi there, I'm Nikita 👋
-I’m currently learning Python and Java.
+I’m data analyst.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=musatovnikita&show_icons=true&count_private=true">
@@ -31,7 +31,9 @@ Programming languages: <code>Python</code> <code>SQL</code> <code>PL/SQL</code>
 Databases: <code>Oracle</code>
 
 <details>
-  <summary>📃 Сertificates</summary>\
+  <summary>📃 Сertificates</summary>
+
+
 
 [Codeby Academy](https://python-basics.codeby.school/) - [Python programming basics](certificates/codeby_python.pdf)
 
