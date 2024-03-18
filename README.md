@@ -27,13 +27,15 @@ I’m currently learning Python and Java.
 
 ## 🛠 Technical Stack
 Programming languages: <code>Python</code> <code>SQL</code> <code>PL/SQL</code>
+
 Databases: <code>Oracle</code>
 
 <details>
   <summary>📃 Сertificates</summary>
 
-[Codeby Academy](certificates/codeby_python.pdf
+[Codeby Academy](certificates/codeby_python.pdf)
 Websie: https://codeby.school/
+</details>
 
 <details>
   <summary>📃 Resume</summary>
