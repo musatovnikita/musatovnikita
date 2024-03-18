@@ -32,6 +32,7 @@ Databases: <code>Oracle</code>
 
 <details>
   <summary>📃 Сertificates</summary>
+  
 
 [Codeby Academy](https://codeby.school/) - [Python programming basics](certificates/codeby_python.pdf)
 
