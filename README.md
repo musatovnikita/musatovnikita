@@ -26,8 +26,8 @@ I’m currently learning Python and Java.
    </a>
 
 ## 🛠 Technical Stack
-*   <code>Python</code>, SQL, PL/SQL
-*   Oracle
+<p dir="auto">Programming languages: <code>Python</code> <code>SQL</code> <code>PL/SQL</code></p>p>
+Databases: <code>Oracle</code>
 
 <details>
   <summary>📃 Resume</summary>
