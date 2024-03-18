@@ -11,20 +11,6 @@ Data analyst with a strong background in retail practices. Engaged in interpreti
    
 </p>
 
-<p align='center'>
-   <a href='mailto:nikitamusatov@gmail.com'>
-       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-   <a href="https://www.linkedin.com/in/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://instagram.com/nikmusatov">
-       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-   </a>
-   <a href="https://t.me/nikitamusatov">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-
 ## 🛠 Technical Stack
 Programming languages: <code>Python</code> <code>SQL</code> <code>PL/SQL</code>
 
@@ -114,9 +100,3 @@ Databases: <code>Oracle</code>
 📍 **Energisa** - Presidente Prudente/SP, Brazil
    
 -->
- 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/musatovnikita/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=musatovnikita&color=DE002D">
-   </a>
-</div>
