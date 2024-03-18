@@ -33,11 +33,13 @@ Databases: <code>Oracle</code>
 <details>
   <summary>📃 Сertificates</summary>
 
-[Codeby Academy](certificates/codeby_python.pdf)
-Websie: https://codeby.school/
+[Codeby Academy](https://codeby.school/) - [Python programming basics](certificates/codeby_python.pdf)
+
 </details>
 
-< !-- <details>
+<!---
+
+ <details>
   <summary>📃 Resume</summary>
 
 
