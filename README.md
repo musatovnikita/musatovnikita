@@ -37,7 +37,7 @@ Databases: <code>Oracle</code>
 Websie: https://codeby.school/
 </details>
 
-<details>
+< !-- <details>
   <summary>📃 Resume</summary>
 
 
@@ -111,7 +111,7 @@ Websie: https://codeby.school/
 📆 2011 - 2015\
 📍 **Energisa** - Presidente Prudente/SP, Brazil
    
-
+-->
  
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/musatovnikita/github-profile-views-counter">
