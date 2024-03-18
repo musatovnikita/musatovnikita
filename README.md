@@ -26,7 +26,7 @@ I’m currently learning Python and Java.
    </a>
 
 ## 🛠 Technical Stack
-<p dir="auto">Programming languages: <code>Python</code> <code>SQL</code> <code>PL/SQL</code></p>p>
+<p dir="auto">Programming languages: <code>Python</code> <code>SQL</code> <code>PL/SQL</code></p>
 Databases: <code>Oracle</code>
 
 <details>
