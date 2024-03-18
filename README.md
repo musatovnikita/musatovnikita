@@ -31,9 +31,9 @@ Programming languages: <code>Python</code> <code>SQL</code> <code>PL/SQL</code>
 Databases: <code>Oracle</code>
 
 <details>
-  <summary>📃 Сertificates</summary>
+  <summary>📃 Сertificates</summary>\
 
-<p>[Codeby Academy](https://codeby.school/) - [Python programming basics](certificates/codeby_python.pdf)</p>
+[Codeby Academy](https://python-basics.codeby.school/) - [Python programming basics](certificates/codeby_python.pdf)
 
 </details>
 
