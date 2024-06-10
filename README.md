@@ -20,6 +20,7 @@ Databases: <code>Oracle</code>
   <summary>📃 Сertificates</summary>
    
    [Codeby Academy](https://python-basics.codeby.school/) - [Python programming basics](certificates/codeby_python.pdf)
+   
    [Computer Training Center "Specialist"](https://www.specialist.ru/course/orplsk11?src=anons) - [Oracle Database 19c: PL/SQL fundamentals](certificates/specialist_plsql_en.gif)
 
 </details>
