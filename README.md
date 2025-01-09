@@ -1,5 +1,5 @@
 # Hi there, I'm Nikita 👋
-Business and system analyst with a strong background in retail practices. Engaged in interpreting and analyzing data to drive successful business solutions. Proficient knowledge in analytics. With my expertise, I'm well-prepared to excel in creating efficient and impactful solutions for complex challenges.
+Business analyst with a strong background in E-commerce and iGaming practices. Engaged in interpreting and analyzing data to drive successful business solutions. Proficient knowledge in analytics. With my expertise, I'm well-prepared to excel in creating efficient and impactful solutions for complex challenges.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=musatovnikita&show_icons=true&count_private=true">
